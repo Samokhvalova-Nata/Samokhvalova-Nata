@@ -1,7 +1,4 @@
-## Welcome to my page! 👋
-
-I'm Nataliia, Fullstack Developer from Ukraine
-
+### Hi! I'm Nataliia, Fullstack Developer from Ukraine
 *(Open for Hiring)*
 
 ## My technology stack
