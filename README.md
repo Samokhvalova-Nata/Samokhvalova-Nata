@@ -37,7 +37,7 @@
 
 - Typescript
 - MySQL
-- React Native
+
 
 <!-- ## GitHub Stats -->
 
