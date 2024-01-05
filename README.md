@@ -1,4 +1,4 @@
-### Hi! I'm Nataliia, Fullstack Developer from Ukraine
+t### Hi! I'm Nataliia, Fullstack Developer from Ukraine
 *(Open for Hiring)*
 
 ## My technology stack
@@ -31,12 +31,15 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=cd6799">
+</a>
 </p>
 
 ## Currently study
 
-- Typescript
-- MySQL
+- Next
+- Vue
 
 
 <!-- ## GitHub Stats -->
