@@ -39,7 +39,7 @@
 ## Currently study
 
 - Next.js
-- Vue.js
+
 
 
 <!-- ## GitHub Stats -->
